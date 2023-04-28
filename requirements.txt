@@ -1,0 +1,4 @@
+streamlit
+nampy
+pandas
+scikit-learn
